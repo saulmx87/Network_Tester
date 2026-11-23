@@ -1,4 +1,4 @@
-# 🔌 Tester MexWeb PRO (v2.11)
+# Tester MexWeb PRO (v2.11)
 
 ![ESP32](https://img.shields.io/badge/Hardware-ESP32-blue)
 ![Framework](https://img.shields.io/badge/IDE-Arduino-00979D)
